@@ -16,23 +16,23 @@ none
 no
 # Q9
 yes, 200 state code and has content-length header
-# 10
+# Q10
 yes, Mon, 04 Oct 2021 05:59:02 GMT
-# 11
+# Q11
 304, Not Modified
-# 12
+# Q12
 1 GET request, 4 Resp Frames
-# 13
+# Q13
 the first resp frame
-# 14
+# Q14
 200 OK
-# 15
+# Q15
 4
-# 16
+# Q16
 3, 128.119.245.12 and 178.79.137.164
-# 17
-seems be serial. the second request is sent after receiving the first response
-# 18
+# Q17
+seems serial. the second request is sent after receiving the first response
+# Q18
 401 Unauthorized
-# 19
+# Q19
 Cache-Control and Authorization Headers
